@@ -20,4 +20,4 @@ make
 ```
 
 ## 🚀 Example use
-[Cowtype example.mp4](https://files.catbox.moe/vax54n.mp4)
+[cowtype example.mp4](https://files.catbox.moe/xvhm5e.webm)
