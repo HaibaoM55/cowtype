@@ -20,4 +20,4 @@ make
 ```
 
 ## 🚀 Example use
-<video src="https://suntunaiurit.org/videos/cowtype%20example.mp4" controls width="300"></video>
+<video src="https://files.catbox.moe/vax54n.mp4" controls width="300"></video>
